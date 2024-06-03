@@ -45,7 +45,7 @@ The steps of performing proposed method can be divided into three categories: tu
 
 
 ## Project History
-This project was originally completed in 2011. The commit history has been adjusted to reflect the original dates of the work.
+This project was originally completed in 2020. The commit history has been adjusted to reflect the original dates of the work.
 
 ## Code explanation video
 https://drive.google.com/file/d/17-gl7JL5i9bjDscx8OtmkmH5E-KGCirK/view?usp=drive_link
